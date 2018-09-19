@@ -1,0 +1,13 @@
+.accident-data{
+    list-style: none;
+}
+h2{
+    padding-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 7px;
+    font-size: 4vh;
+}
+li{
+    padding-left: 10px;
+    font-size: 3vh;
+}
